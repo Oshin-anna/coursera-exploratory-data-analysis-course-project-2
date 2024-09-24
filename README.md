@@ -1,4 +1,5 @@
-# - Course Project 2 - Exploratory Data Analysis 
+# Course Project 2 - Exploratory Data Analysis 
+### -Oshin P Joseph
 # Introduction
 
 Fine particulate matter (PM2.5) is an ambient air pollutant, and there is strong evidence that it harms human health. In the United States, the Environmental Protection Agency (EPA) is tasked with setting national ambient air quality standards for fine PM and tracking this pollutant's emissions into the atmosphere. Approximatly every 3 years, the EPA releases its database on emissions of PM2.5. This database is known as the National Emissions Inventory (NEI). You can read more information about the NEI at the EPA National [Emissions Inventory website](http://www.epa.gov/ttn/chief/eiinformation.html).
